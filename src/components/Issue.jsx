@@ -4,7 +4,7 @@ export default class Issue extends Component {
     render() {
         return (
             <div>
-                test
+                
             </div>
         )
     }
